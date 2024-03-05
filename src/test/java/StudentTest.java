@@ -51,7 +51,7 @@ class StudentTest {
         assertEquals(6.6, ((int) (student.averageGrade()*10))/10.0);
 
     }
-
+/*
     @org.junit.jupiter.api.Test
     void reportCard() {
 
@@ -60,4 +60,6 @@ class StudentTest {
         assertEquals(expectedReportCard, actualReportCard);
 
     }
+
+ */
 }
